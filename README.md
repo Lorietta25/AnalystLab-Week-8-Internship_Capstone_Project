@@ -94,7 +94,7 @@ Key steps included: promoting headers, filtering to 23 indicators, unpivoting 66
 ### Page 2 — Bright Spots
 *Countries demonstrating measurable positive change: renewable energy growth, forest area gain, and leading protected-area coverage.*
 
-![Bright Spots Dashboard](screenshots/Environmental%20Sustainable%20Metrics%20dashboard%202.png)
+![Bright Spots Dashboard](https://github.com/Lorietta25/AnalystLab-Week-8-Internship_Capstone_Project/blob/main/Environmental%20Sustainable%20Metrics%20dashboard%202.png?raw=true)
 
 **Fully interactive:** synchronized **Year**, **Region**, and **Income Group** slicers filter both pages simultaneously. Download the `.pbix` file above to explore live.
 
