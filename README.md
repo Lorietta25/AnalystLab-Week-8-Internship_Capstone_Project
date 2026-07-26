@@ -1,6 +1,6 @@
 # 🌍 Environmental Sustainability Metrics Dashboard
 
-**A global analysis of land, emissions, energy, water, and biodiversity trends — built with Power BI and the World Bank's World Development Indicators (WDI).**
+**A global analysis of land, emissions, energy, water, and biodiversity trends built with Power BI and the World Bank's World Development Indicators (WDI).**
 
 Data Analytics Capstone Project | AnalystLab Africa — Batch B Internship
 👤 Prepared by: **Nwafor Chinaza**
@@ -10,7 +10,7 @@ Data Analytics Capstone Project | AnalystLab Africa — Batch B Internship
 
 ## Project Overview
 
-Environmental sustainability is one of the most pressing global challenges of the current decade — spanning deforestation, greenhouse gas emissions, the transition to renewable energy, freshwater scarcity, and biodiversity protection. This project applies a complete data analytics workflow — **Ask, Prepare, Process, Analyze, Share, Act** — to World Bank environmental data covering **217 countries**, **23 indicators**, and **over 60 years of observations**, resulting in a two-page interactive Power BI dashboard that tells an honest story: **The Challenge** (global decline) and **Bright Spots** (measurable progress).
+Environmental sustainability is one of the most pressing global challenges of the current decade  spanning deforestation, greenhouse gas emissions, the transition to renewable energy, freshwater scarcity, and biodiversity protection. This project applies a complete data analytics workflow — **Ask, Prepare, Process, Analyze, Share, Act**  to World Bank environmental data covering **217 countries**, **23 indicators**, and **over 60 years of observations**, resulting in a two-page interactive Power BI dashboard that tells an honest story: **The Challenge** (global decline) and **Bright Spots** (measurable progress).
 
 ---
 
@@ -89,12 +89,12 @@ Key steps included: promoting headers, filtering to 23 indicators, unpivoting 66
 ### Page 1 — The Challenge
 *Global snapshot of environmental decline: five KPI cards, forest area decline, CO2 emissions increase, and the 15 most water-stressed countries.*
 
-![The Challenge Dashboard](screenshots/Enviromental_Sustainable_Metrics_dashboard_1.png)
+![The Challenge Dashboard](Enviromental Sustainable Metrics dashboard 1)
 
 ### Page 2 — Bright Spots
 *Countries demonstrating measurable positive change: renewable energy growth, forest area gain, and leading protected-area coverage.*
 
-![Bright Spots Dashboard](screenshots/Enviromental_Sustainable_Metrics_dashboard_2.png)
+![Bright Spots Dashboard](Enviromental Sustainable Metrics dashboard 2)
 
 **Fully interactive:** synchronized **Year**, **Region**, and **Income Group** slicers filter both pages simultaneously. Download the `.pbix` file above to explore live.
 
