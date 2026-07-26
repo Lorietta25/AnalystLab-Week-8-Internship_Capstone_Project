@@ -89,7 +89,7 @@ Key steps included: promoting headers, filtering to 23 indicators, unpivoting 66
 ### Page 1 — The Challenge
 *Global snapshot of environmental decline: five KPI cards, forest area decline, CO2 emissions increase, and the 15 most water-stressed countries.*
 
-![The Challenge Dashboard](screenshots/Environmental%20Sustainable%20Metrics%20dashboard%201.png)
+![The Challenge Dashboard](https://github.com/Lorietta25/AnalystLab-Week-8-Internship_Capstone_Project/blob/main/Environmental%20Sustainable%20Metrics%20dashboard%201.png?raw=true)
 
 ### Page 2 — Bright Spots
 *Countries demonstrating measurable positive change: renewable energy growth, forest area gain, and leading protected-area coverage.*
